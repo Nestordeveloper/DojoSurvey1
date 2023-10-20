@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "Hash": "AgQu1qN7t9tBLpLbAqUHjgaC1JT7gIvuY/KnR74rLaU=",
+  "Source": "dojo-survey",
+  "BasePath": "_content/dojo-survey",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "dojo-survey\\wwwroot",
+      "Source": "dojo-survey",
+      "ContentRoot": "C:\\Users\\snela\\Desktop\\dojo-survey\\wwwroot\\",
+      "BasePath": "_content/dojo-survey",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": [
+    {
+      "Identity": "C:\\Users\\snela\\Desktop\\dojo-survey\\wwwroot\\css\\styles.css",
+      "SourceId": "dojo-survey",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\snela\\Desktop\\dojo-survey\\wwwroot\\",
+      "BasePath": "_content/dojo-survey",
+      "RelativePath": "css/styles.css",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\css\\styles.css"
+    }
+  ]
+}
